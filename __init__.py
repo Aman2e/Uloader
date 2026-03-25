@@ -58,7 +58,7 @@ while (cap.isOpened()):
             log_button.grid(row=3,column = 2,columnspan=2,ipadx=15)
             global my_label
             def login(user,pswd):
-                if user == "Akshay" and pswd == "admin":
+                if user == "Aman" and pswd == "admin":
             #         root1.destroy()
                     root = Toplevel(root1,bg='white')
                     root.title("Welcome to Aman_youloder")
