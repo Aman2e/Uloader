@@ -61,7 +61,7 @@ while (cap.isOpened()):
                 if user == "Akshay" and pswd == "admin":
             #         root1.destroy()
                     root = Toplevel(root1,bg='white')
-                    root.title("Welcome to Akshay_youloder")
+                    root.title("Welcome to Aman_youloder")
                     img1 = ImageTk.PhotoImage(Image.open("Downloads/yd_img2.png").resize((850, 450), Image.ANTIALIAS))
                     img2 = ImageTk.PhotoImage(Image.open("Pictures/2.jpg").resize((850, 450), Image.ANTIALIAS))
                     img3 = ImageTk.PhotoImage(Image.open("Pictures/3.jpg").resize((850, 450), Image.ANTIALIAS))
